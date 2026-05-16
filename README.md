@@ -1,1 +1,1 @@
-Solving the problem with the right amount of complexity.
+Solving problems with the right amount of complexity.
